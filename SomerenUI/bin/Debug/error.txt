@@ -1,0 +1,102 @@
+Could not connect to the Database, please try again later.
+15-Mar-19 12:46:12 PM
+Could not connect to the Student Database, please try again later.
+15-Mar-19 12:48:25 PM
+Could not connect to the Lecturers Database, please try again later.
+15-Mar-19 12:48:27 PM
+Could not connect to the Lecturers Database, please try again later.
+15-Mar-19 12:57:09 PM
+Could not connect to the Student Database, please try again later.
+15-Mar-19 1:18:37 PM
+Could not connect to the Lecturers Database, please try again later.
+15-Mar-19 1:18:40 PM
+Could not connect to the Lecturers Database, please try again later.
+22-Mar-19 2:19:58 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:20:20 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:21:01 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:24:55 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:26:37 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:27:04 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:27:15 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:28:23 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:28:33 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:29:01 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:29:19 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:31:26 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:32:00 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:33:14 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:33:34 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:34:02 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:34:51 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:37:04 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:37:41 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:38:50 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:39:44 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:41:06 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:42:12 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:44:30 PM
+Could not connect to the Stocks Database, please try again later.
+22-Mar-19 2:44:47 PM
+Could not connect to the Stocks Database, please try again later.
+25-Mar-19 3:06:52 PM
+Could not connect to the Lecturers Database, please try again later.
+27-Mar-19 6:22:13 PM
+Could not connect to the Lecturers Database, please try again later.
+27-Mar-19 6:33:55 PM
+Could not connect to the Lecturers Database, please try again later.
+27-Mar-19 6:51:31 PM
+Could not connect to the Lecturers Database, please try again later.
+27-Mar-19 6:52:13 PM
+Could not connect to the Lecturers Database, please try again later.
+27-Mar-19 6:54:24 PM
+Could not connect to the Lecturers Database, please try again later.
+27-Mar-19 6:55:06 PM
+Could not connect to the Lecturers Database, please try again later.
+27-Mar-19 6:56:04 PM
+Could not connect to the Lecturers Database, please try again later.
+27-Mar-19 6:58:21 PM
+Could not connect to the Lecturers Database, please try again later.
+27-Mar-19 7:00:00 PM
+Could not connect to the Supervisor Database, please try again later.
+27-Mar-19 7:04:13 PM
+Could not connect to the Lecturer Database, please try again later.
+29-Mar-19 12:50:49 PM
+Could not connect to the Lecturer Database, please try again later.
+29-Mar-19 12:51:30 PM
+Could not connect to the Lecturer Database, please try again later.
+29-Mar-19 12:52:25 PM
+Could not connect to the Lecturer Database, please try again later.
+29-Mar-19 12:53:04 PM
+Could not connect to the Lecturer Database, please try again later.
+29-Mar-19 12:53:12 PM
+Could not connect to the Lecturer Database, please try again later.
+29-Mar-19 12:53:53 PM
+Could not connect to the Lecturer Database, please try again later.
+29-Mar-19 12:54:29 PM
+Could not connect to the Lecturer Database, please try again later.
+29-Mar-19 12:54:44 PM
+Could not connect to the Lecturer Database, please try again later.
+29-Mar-19 12:55:38 PM
